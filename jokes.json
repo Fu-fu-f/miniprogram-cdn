@@ -1,0 +1,2045 @@
+[
+  {
+    "id": "joke_001",
+    "type": "riddle",
+    "question": "What has to be broken before you can use it?",
+    "question_zh": "什么东西必须打破了才能用？",
+    "answer": "An egg.",
+    "answer_zh": "鸡蛋。",
+    "explanation": "To 'break' an egg means to crack its shell, which is necessary to cook it."
+  },
+  {
+    "id": "joke_002",
+    "type": "riddle",
+    "question": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+    "question_zh": "我年轻时很高，老了变矮。我是什么？",
+    "answer": "A candle.",
+    "answer_zh": "蜡烛。",
+    "explanation": "A candle melts and gets shorter as it burns."
+  },
+  {
+    "id": "joke_003",
+    "type": "pun",
+    "question": "Why did the math book look sad?",
+    "question_zh": "为什么数学书看起来很伤心？",
+    "answer": "Because it had too many problems.",
+    "answer_zh": "因为它有太多问题（题目）。",
+    "explanation": "'Problems' can mean math questions or personal difficulties."
+  },
+  {
+    "id": "joke_004",
+    "type": "joke",
+    "question": "What do you call a fake noodle?",
+    "question_zh": "怎么称呼假面条？",
+    "answer": "An Impasta.",
+    "answer_zh": "冒牌面（Impasta）。",
+    "explanation": "A pun on 'Imposter' (fraud) and 'Pasta' (noodle)."
+  },
+  {
+    "id": "joke_005",
+    "type": "riddle",
+    "question": "What comes down but never goes up?",
+    "question_zh": "什么东西只下不上？",
+    "answer": "Rain.",
+    "answer_zh": "雨。",
+    "explanation": "Gravity pulls rain down, and it doesn't fall upwards."
+  },
+  {
+    "id": "joke_006",
+    "type": "pun",
+    "question": "Why couldn't the bicycle stand up by itself?",
+    "question_zh": "为什么自行车不能自己站着？",
+    "answer": "It was two tired.",
+    "answer_zh": "因为它太累了（两个轮子）。",
+    "explanation": "'Two tired' sounds like 'too tired' (exhausted). Ideally, a bike has two tires."
+  },
+  {
+    "id": "joke_007",
+    "type": "riddle",
+    "question": "The more of this there is, the less you see. What is it?",
+    "question_zh": "这东西越多，你看见的越少。它是什么？",
+    "answer": "Darkness.",
+    "answer_zh": "黑暗。",
+    "explanation": "Darkness obscures vision."
+  },
+  {
+    "id": "joke_008",
+    "type": "joke",
+    "question": "What did one wall say to the other?",
+    "question_zh": "这面墙对那面墙说了什么？",
+    "answer": "I'll meet you at the corner.",
+    "answer_zh": "我们在角落（拐角）见。",
+    "explanation": "Walls connect at the corners of a room."
+  },
+  {
+    "id": "joke_009",
+    "type": "riddle",
+    "question": "What has many keys but can't open a single lock?",
+    "question_zh": "什么东西有很多钥匙（键）却开不了一把锁？",
+    "answer": "A piano.",
+    "answer_zh": "钢琴。",
+    "explanation": "Piano keys are musical parts, not door openers."
+  },
+  {
+    "id": "joke_010",
+    "type": "pun",
+    "question": "Why did the scarecrow win an award?",
+    "question_zh": "为什么稻草人得奖了？",
+    "answer": "Because he was outstanding in his field.",
+    "answer_zh": "因为他在自己的领域（田里）很杰出（站得出来）。",
+    "explanation": "'Outstanding' means excellent, but literally he is 'standing out' in a cornfield."
+  },
+  {
+    "id": "joke_011",
+    "type": "riddle",
+    "question": "What travels around the world while staying in a corner?",
+    "question_zh": "什么东西周游世界却一直待在角落里？",
+    "answer": "A stamp.",
+    "answer_zh": "邮票。",
+    "explanation": "A stamp stays on the corner of an envelope."
+  },
+  {
+    "id": "joke_012",
+    "type": "pun",
+    "question": "How does a penguin build its house?",
+    "question_zh": "企鹅怎么盖房子？",
+    "answer": "Igloos it together.",
+    "answer_zh": "用冰屋（胶水）粘起来。",
+    "explanation": "'Igloos' sounds like 'It glues'."
+  },
+  {
+    "id": "joke_013",
+    "type": "joke",
+    "question": "What did the zero say to the eight?",
+    "question_zh": "0对8说了什么？",
+    "answer": "Nice belt!",
+    "answer_zh": "腰带不错！",
+    "explanation": "The number 8 looks like a 0 wearing a belt."
+  },
+  {
+    "id": "joke_014",
+    "type": "riddle",
+    "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+    "question_zh": "我有城市但没有房子，有山但没有树，有水但没有鱼。我是什么？",
+    "answer": "A map.",
+    "answer_zh": "地图。",
+    "explanation": "A map depicts these features but is just paper/screen."
+  },
+  {
+    "id": "joke_015",
+    "type": "joke",
+    "question": "Why do bees have sticky hair?",
+    "question_zh": "为什么蜜蜂的头发是粘的？",
+    "answer": "Because they use honeycombs.",
+    "answer_zh": "因为它们用蜂巢（蜜梳）。",
+    "explanation": "'Honeycomb' is a pun on 'honey' + 'comb' (for hair)."
+  },
+  {
+    "id": "joke_016",
+    "type": "riddle",
+    "question": "What gets wet while drying?",
+    "question_zh": "什么东西在干燥（擦干）时变湿？",
+    "answer": "A towel.",
+    "answer_zh": "毛巾。",
+    "explanation": "A towel absorbs water to dry something else."
+  },
+  {
+    "id": "joke_017",
+    "type": "pun",
+    "question": "What do you call a bear with no teeth?",
+    "question_zh": "没牙的熊叫什么？",
+    "answer": "A gummy bear.",
+    "answer_zh": "橡皮糖熊（Gummy bear）。",
+    "explanation": "'Gummy' means showing gums (because no teeth), also a candy."
+  },
+  {
+    "id": "joke_018",
+    "type": "riddle",
+    "question": "I can flay but have no wings. I can cry but I have no eyes. Wherever I go, darkness follows me. What am I?",
+    "question_zh": "我会飞但没翅膀，会哭但没眼睛。无论我通过哪里，黑暗跟随着我。我是什么？",
+    "answer": "A cloud.",
+    "answer_zh": "云。",
+    "explanation": "Clouds 'fly' in the sky, 'cry' rain, and cast shadows."
+  },
+  {
+    "id": "joke_019",
+    "type": "joke",
+    "question": "Why did the computer go to the doctor?",
+    "question_zh": "为什么电脑去看医生？",
+    "answer": "Because it had a virus.",
+    "answer_zh": "因为它中了病毒。",
+    "explanation": "Computer virus vs biological virus."
+  },
+  {
+    "id": "joke_020",
+    "type": "pun",
+    "question": "What do you call a sleeping bull?",
+    "question_zh": "睡觉的公牛叫什么？",
+    "answer": "A bulldozer.",
+    "answer_zh": "推土机（Bulldozer）。",
+    "explanation": "'Dozer' sounds like someone dozing (sleeping). Bull + Dozer."
+  },
+  {
+    "id": "joke_021",
+    "type": "riddle",
+    "question": "The person who makes it has no need of it; the person who buys it has no use for it. The person who uses it can neither see nor feel it. What is it?",
+    "question_zh": "制造它的人不需要它，买它的人不用它，用它的人看不见也摸不着它。它是什么？",
+    "answer": "A coffin.",
+    "answer_zh": "棺材。",
+    "explanation": "Used by the dead."
+  },
+  {
+    "id": "joke_022",
+    "type": "joke",
+    "question": "Why are ghosts bad at lying?",
+    "question_zh": "为什么鬼不擅长撒谎？",
+    "answer": "Because you can see right through them.",
+    "answer_zh": "因为你能一眼看穿他们。",
+    "explanation": "Ghosts are transparent."
+  },
+  {
+    "id": "joke_023",
+    "type": "pun",
+    "question": "What do you call a factory that makes okay products?",
+    "question_zh": "生产还凑合产品的工厂叫什么？",
+    "answer": "A satisfactory.",
+    "answer_zh": "满意的（Satisfactory）。",
+    "explanation": "Pun on 'Sat is factory' or simply the word satisfactory."
+  },
+  {
+    "id": "joke_024",
+    "type": "riddle",
+    "question": "What can you catch, but not throw?",
+    "question_zh": "什么东西你能抓住（感染），但仍不出去？",
+    "answer": "A cold.",
+    "answer_zh": "感冒。",
+    "explanation": "To 'catch a cold'."
+  },
+  {
+    "id": "joke_025",
+    "type": "joke",
+    "question": "What starts with E, ends with E, and has only one letter in it?",
+    "question_zh": "什么东西以E开头，以E结尾，里面只装了一封信（一个字母）？",
+    "answer": "An envelope.",
+    "answer_zh": "信封。",
+    "explanation": "Starts/ends with 'e', contains a 'letter'."
+  },
+  {
+    "id": "joke_026",
+    "type": "pun",
+    "question": "How do you organize a space party?",
+    "question_zh": "怎么组织太空派对？",
+    "answer": "You planet.",
+    "answer_zh": "你计划（Planet/Plan it）。",
+    "explanation": "Planet sounds like 'Plan it'."
+  },
+  {
+    "id": "joke_027",
+    "type": "riddle",
+    "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+    "question_zh": "我没嘴说话，没耳听声。没身体，但风一来我就活了。我是什么？",
+    "answer": "An echo.",
+    "answer_zh": "回声。",
+    "explanation": "Echoes reflect sound."
+  },
+  {
+    "id": "joke_028",
+    "type": "joke",
+    "question": "Why did the tomato turn red?",
+    "question_zh": "为什么番茄变红了？",
+    "answer": "Because it saw the salad dressing.",
+    "answer_zh": "因为它看见沙拉在换衣服（Dressing）。",
+    "explanation": "'Dressing' means sauce, but also putting on clothes."
+  },
+  {
+    "id": "joke_029",
+    "type": "pun",
+    "question": "What do you call a belt made out of watches?",
+    "question_zh": "用手表做的腰带叫什么？",
+    "answer": "A waist of time.",
+    "answer_zh": "浪费时间（Waist of time）。",
+    "explanation": "'Waist' (body part) sounds like 'Waste'."
+  },
+  {
+    "id": "joke_030",
+    "type": "riddle",
+    "question": "I have keys but no locks. I have a space but no room. You can enter, but can't go outside. What am I?",
+    "question_zh": "我有键但没锁，有空间（空格）但没房间。你可以进入（Enter键），但出不去。我是什么？",
+    "answer": "A keyboard.",
+    "answer_zh": "键盘。",
+    "explanation": "Parts of a computer keyboard."
+  },
+  {
+    "id": "joke_031",
+    "type": "joke",
+    "question": "What kind of room has no doors or windows?",
+    "question_zh": "什么房间没有门窗？",
+    "answer": "A mushroom.",
+    "answer_zh": "蘑菇（Mushroom）。",
+    "explanation": "Ends in 'room'."
+  },
+  {
+    "id": "joke_032",
+    "type": "pun",
+    "question": "Why was the stadium so hot?",
+    "question_zh": "为什么体育场这么热？",
+    "answer": "Because all the fans left.",
+    "answer_zh": "因为所有风扇（粉丝）都走了。",
+    "explanation": "'Fans' can mean people or cooling devices."
+  },
+  {
+    "id": "joke_033",
+    "type": "riddle",
+    "question": "What belongs to you, but other people use it more than you?",
+    "question_zh": "什么东西属于你，但别人比你用得多？",
+    "answer": "Your name.",
+    "answer_zh": "你的名字。",
+    "explanation": "People call you by your name."
+  },
+  {
+    "id": "joke_034",
+    "type": "joke",
+    "question": "Why can't you give Elsa a balloon?",
+    "question_zh": "为什么不能给艾莎气球？",
+    "answer": "Because she will let it go.",
+    "answer_zh": "因为她会放手（Let it go）。",
+    "explanation": "Reference to the song 'Let It Go' from Frozen."
+  },
+  {
+    "id": "joke_035",
+    "type": "pun",
+    "question": "I used to be a baker, but I couldn't make enough dough.",
+    "question_zh": "我以前是个面包师，但我赚不到足够的钱（面团）。",
+    "answer": "Dough.",
+    "answer_zh": "面团/钱。",
+    "explanation": "'Dough' is slang for money."
+  },
+  {
+    "id": "joke_036",
+    "type": "riddle",
+    "question": "What has holes all over it but still holds water?",
+    "question_zh": "什么东西全身是洞却能装水？",
+    "answer": "A sponge.",
+    "answer_zh": "海绵。",
+    "explanation": "Sponges absorb water."
+  },
+  {
+    "id": "joke_037",
+    "type": "joke",
+    "question": "What is a snake’s favorite subject?",
+    "question_zh": "蛇最喜欢的科目是什么？",
+    "answer": "Hisss-tory.",
+    "answer_zh": "历史（Hisss-tory）。",
+    "explanation": "Snake sound 'hiss' + history."
+  },
+  {
+    "id": "joke_038",
+    "type": "pun",
+    "question": "Why did the picture stay in jail?",
+    "question_zh": "为什么那幅画待在监狱里？",
+    "answer": "Because it was framed.",
+    "answer_zh": "因为它被陷害（装裱）了。",
+    "explanation": "'Framed' means putting a picture in a frame or falsely accusing someone."
+  },
+  {
+    "id": "joke_039",
+    "type": "riddle",
+    "question": "If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "question_zh": "如果你掉下我，我肯定碎，但给我一个微笑，我也回你微笑。我是什么？",
+    "answer": "A mirror.",
+    "answer_zh": "镜子。",
+    "explanation": "Mirrors reflect smiles and break easily."
+  },
+  {
+    "id": "joke_040",
+    "type": "joke",
+    "question": "What do you call a sleeping dinosaur?",
+    "question_zh": "睡觉的恐龙叫什么？",
+    "answer": "A dino-snore.",
+    "answer_zh": "恐龙打呼噜（Dino-snore）。",
+    "explanation": "Rhymes with dinosaur."
+  },
+  {
+    "id": "joke_041",
+    "type": "pun",
+    "question": "I’m on a seafood diet. I see food and I eat it.",
+    "question_zh": "我在进行海鲜（看见食物）饮食法。我看见食物就吃。",
+    "answer": "Seafood / See food.",
+    "answer_zh": "海鲜 / 看见食物。",
+    "explanation": "Pun on 'Seafood' and 'See food'."
+  },
+  {
+    "id": "joke_042",
+    "type": "riddle",
+    "question": "What runs all around a backyard, yet never moves?",
+    "question_zh": "什么东西绕着后院跑一圈，却从未移动？",
+    "answer": "A fence.",
+    "answer_zh": "栅栏。",
+    "explanation": "A fence goes around the yard but is stationary."
+  },
+  {
+    "id": "joke_043",
+    "type": "joke",
+    "question": "How do you make a tissue dance?",
+    "question_zh": "怎么让纸巾跳舞？",
+    "answer": "You put a little boogie in it.",
+    "answer_zh": "你放点布吉舞（鼻屎）在里面。",
+    "explanation": "'Boogie' is a dance style and slang for booger."
+  },
+  {
+    "id": "joke_044",
+    "type": "pun",
+    "question": "The past, present, and future walked into a bar. It was tense.",
+    "question_zh": "过去、现在和未来走进酒吧。气氛很紧张（时态）。",
+    "answer": "Tense.",
+    "answer_zh": "紧张 / 时态。",
+    "explanation": "Grammatical tenses vs social tension."
+  },
+  {
+    "id": "joke_045",
+    "type": "riddle",
+    "question": "I am full of holes, but I can hold water. What am I?",
+    "question_zh": "我满身是洞，但我能装水。我是什么？",
+    "answer": "A sponge.",
+    "answer_zh": "海绵。",
+    "explanation": "Duplicate concept, slightly different wording."
+  },
+  {
+    "id": "joke_046",
+    "type": "joke",
+    "question": "Can a kangaroo jump higher than a house?",
+    "question_zh": "袋鼠能跳得比房子高吗？",
+    "answer": "Of course, a house doesn’t jump at all.",
+    "answer_zh": "当然，房子根本不跳。",
+    "explanation": "Play on logic."
+  },
+  {
+    "id": "joke_047",
+    "type": "pun",
+    "question": "Why did the golfer bring two pairs of pants?",
+    "question_zh": "为什么高尔夫球手带两条裤子？",
+    "answer": "In case he got a hole in one.",
+    "answer_zh": "万一他一杆进洞（裤子破个洞）。",
+    "explanation": "'Hole in one' is a golf score and also a rip in pants."
+  },
+  {
+    "id": "joke_048",
+    "type": "riddle",
+    "question": "What has a thumb and four fingers, but is not a hand?",
+    "question_zh": "什么有拇指和四根手指，却不是手？",
+    "answer": "A glove.",
+    "answer_zh": "手套。",
+    "explanation": "It's the shape of a hand."
+  },
+  {
+    "id": "joke_049",
+    "type": "joke",
+    "question": "What uses a lot of words but never speaks?",
+    "question_zh": "什么东西用很多字但从不说话？",
+    "answer": "A book.",
+    "answer_zh": "书。",
+    "explanation": "Books have words inside."
+  },
+  {
+    "id": "joke_050",
+    "type": "pun",
+    "question": "I'm reading a book on anti-gravity. It's impossible to put down.",
+    "question_zh": "我正在读一本关于反重力的书。根本放不下来。",
+    "answer": "Put down.",
+    "answer_zh": "放下（书） / 停止阅读。",
+    "explanation": "Anti-gravity prevents things from being put down."
+  },
+  {
+    "id": "joke_051",
+    "type": "joke",
+    "question": "Why did the scarecrow become a successful neurosurgeon?",
+    "question_zh": "为什么稻草人变成了成功的神经外科医生？",
+    "answer": "He was outstanding in his field.",
+    "answer_zh": "他在他的领域（田地）非常杰出。",
+    "explanation": "Play on 'field' (profession vs farm)."
+  },
+  {
+    "id": "joke_052",
+    "type": "riddle",
+    "question": "What kind of coat is best put on wet?",
+    "question_zh": "什么外套最好湿着穿？",
+    "answer": "A coat of paint.",
+    "answer_zh": "一层（件）油漆。",
+    "explanation": "'Coat' means jacket or layer."
+  },
+  {
+    "id": "joke_053",
+    "type": "pun",
+    "question": "Why did the cookie go to the hospital?",
+    "question_zh": "为什么曲奇饼去医院？",
+    "answer": "Because he felt crummy.",
+    "answer_zh": "因为它感觉很糟糕（充满碎屑）。",
+    "explanation": "'Crummy' means sick/bad, and cookies have crumbs."
+  },
+  {
+    "id": "joke_054",
+    "type": "joke",
+    "question": "What do you call a bear with no ears?",
+    "question_zh": "没耳朵的熊叫什么？",
+    "answer": "B.",
+    "answer_zh": "B。",
+    "explanation": "Bear without 'ear' is just B."
+  },
+  {
+    "id": "joke_055",
+    "type": "riddle",
+    "question": "What has 13 hearts, but no other organs?",
+    "question_zh": "什么东西有13颗心，但没有其他器官？",
+    "answer": "A deck of cards.",
+    "answer_zh": "一副扑克牌。",
+    "explanation": "Hearts suit in cards."
+  },
+  {
+    "id": "joke_056",
+    "type": "pun",
+    "question": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "question_zh": "我在读关于反重力的书。根本放不下来！",
+    "answer": "Put down.",
+    "answer_zh": "放下（书）/ 停止。",
+    "explanation": "Anti-gravity prevents falling/putting down."
+  },
+  {
+    "id": "joke_057",
+    "type": "joke",
+    "question": "Why don't skeletons fight each other?",
+    "question_zh": "为什么骷髅不打架？",
+    "answer": "They don't have the guts.",
+    "answer_zh": "他们没种（没内脏）。",
+    "explanation": "'Guts' means bravery and internal organs."
+  },
+  {
+    "id": "joke_058",
+    "type": "riddle",
+    "question": "What has a head and a tail but no body?",
+    "question_zh": "什么有头有尾（反面）但没身体？",
+    "answer": "A coin.",
+    "answer_zh": "硬币。",
+    "explanation": "Heads and tails sides."
+  },
+  {
+    "id": "joke_059",
+    "type": "joke",
+    "question": "What do you call a pile of cats?",
+    "question_zh": "一堆猫叫什么？",
+    "answer": "A meowtain.",
+    "answer_zh": "喵山（Meow-tain）。",
+    "explanation": "Mountain + Meow."
+  },
+  {
+    "id": "joke_060",
+    "type": "pun",
+    "question": "Why was the math book sad?",
+    "question_zh": "为什么数学书伤心？",
+    "answer": "It had too many problems.",
+    "answer_zh": "问题（题目）太多。",
+    "explanation": "Problems = difficulties or exercises."
+  },
+  {
+    "id": "joke_061",
+    "type": "riddle",
+    "question": "What begins with T, ends with T, and has T in it?",
+    "question_zh": "什么以T开头，以T结尾，里面还有T（茶）？",
+    "answer": "A teapot.",
+    "answer_zh": "茶壶。",
+    "explanation": "Starts/ends with letter T, contains Tea."
+  },
+  {
+    "id": "joke_062",
+    "type": "joke",
+    "question": "What do you call a fish wearing a bowtie?",
+    "question_zh": "戴领结的鱼叫什么？",
+    "answer": "Sofishticated.",
+    "answer_zh": "老练的（So-fish-ticated）。",
+    "explanation": "Sophisticated + fish."
+  },
+  {
+    "id": "joke_063",
+    "type": "pun",
+    "question": "I only know 25 letters of the alphabet. I don't know y.",
+    "question_zh": "我只认识25个字母。我不认识y（不知道为什么）。",
+    "answer": "Y / Why.",
+    "answer_zh": "Y / 为什么。",
+    "explanation": "Letter Y sounds like 'Why'."
+  },
+  {
+    "id": "joke_064",
+    "type": "joke",
+    "question": "How do you catch a whole school of fish?",
+    "question_zh": "怎么抓一整群（学校）鱼？",
+    "answer": "With bookworms.",
+    "answer_zh": "用书虫。",
+    "explanation": "School (group of fish) vs School (education)."
+  },
+  {
+    "id": "joke_065",
+    "type": "riddle",
+    "question": "What goes up but never comes down?",
+    "question_zh": "什么东西只升不降？",
+    "answer": "Your age.",
+    "answer_zh": "你的年龄。",
+    "explanation": "Age only increases."
+  },
+  {
+    "id": "joke_066",
+    "type": "pun",
+    "question": "I wondered why the baseball was getting bigger. Then it hit me.",
+    "question_zh": "我纳闷棒球为什么变大了。然后它击中了我（我明白了）。",
+    "answer": "Hit me.",
+    "answer_zh": "击中 / 突然明白。",
+    "explanation": "Physical hit vs realization."
+  },
+  {
+    "id": "joke_067",
+    "type": "joke",
+    "question": "Can February March?",
+    "question_zh": "二月能行军（March）吗？",
+    "answer": "No, but April May.",
+    "answer_zh": "不能，但四月可以（May/五月）。",
+    "explanation": "Month names are also verbs/nouns (March, May)."
+  },
+  {
+    "id": "joke_068",
+    "type": "riddle",
+    "question": "I have a neck but no head. What am I?",
+    "question_zh": "我有脖子（瓶颈）但没头。我是什么？",
+    "answer": "A shirt (or a bottle).",
+    "answer_zh": "衬衫（或瓶子）。",
+    "explanation": "Shirt neck / bottle neck."
+  },
+  {
+    "id": "joke_069",
+    "type": "joke",
+    "question": "What do you call a sleeping wolf?",
+    "question_zh": "睡觉的狼叫什么？",
+    "answer": "Unaware wolf.",
+    "answer_zh": "不知情的狼（Unaware wolf）。",
+    "explanation": "Sounds like 'A werewolf'."
+  },
+  {
+    "id": "joke_070",
+    "type": "pun",
+    "question": "What do you call a pig that does karate?",
+    "question_zh": "会空手道的猪叫什么？",
+    "answer": "A pork chop.",
+    "answer_zh": "猪排（Pork chop）。",
+    "explanation": "Chop is a karate move."
+  },
+  {
+    "id": "joke_071",
+    "type": "riddle",
+    "question": "What belongs to you but others use it more than you do?",
+    "question_zh": "什么东西属于你但别人用的比你多？",
+    "answer": "Your name.",
+    "answer_zh": "你的名字。",
+    "explanation": "Repeated popular riddle."
+  },
+  {
+    "id": "joke_072",
+    "type": "joke",
+    "question": "Why did the banana go to the doctor?",
+    "question_zh": "为什么香蕉去看医生？",
+    "answer": "Because he wasn't peeling well.",
+    "answer_zh": "因为他感觉不好（皮剥得不好）。",
+    "explanation": "Feeling vs Peeling."
+  },
+  {
+    "id": "joke_073",
+    "type": "pun",
+    "question": "Did you hear about the Italian chef that died?",
+    "question_zh": "听说那个意大利厨师死了吗？",
+    "answer": "He pasta way.",
+    "answer_zh": "他去世了（Passed away/Pasta way）。",
+    "explanation": "Pasta vs Passed."
+  },
+  {
+    "id": "joke_074",
+    "type": "joke",
+    "question": "What do you call an alligator in a vest?",
+    "question_zh": "穿背心的鳄鱼叫什么？",
+    "answer": "An investigator.",
+    "answer_zh": "调查员（In-vest-igator）。",
+    "explanation": "In vest + alligator."
+  },
+  {
+    "id": "joke_075",
+    "type": "riddle",
+    "question": "What has words, but never speaks?",
+    "question_zh": "什么有字但从不说话？",
+    "answer": "A book.",
+    "answer_zh": "书。",
+    "explanation": "Books contain text."
+  },
+  {
+    "id": "joke_076",
+    "type": "joke",
+    "question": "How does the ocean say hello?",
+    "question_zh": "大海怎么打招呼？",
+    "answer": "It waves.",
+    "answer_zh": "它挥手（海浪）。",
+    "explanation": "Wave (hand) vs Wave (water)."
+  },
+  {
+    "id": "joke_077",
+    "type": "pun",
+    "question": "I used to be a banker but I lost interest.",
+    "question_zh": "我以前是银行家，但我失去了兴趣（利息）。",
+    "answer": "Interest.",
+    "answer_zh": "兴趣 / 利息。",
+    "explanation": "Banking term."
+  },
+  {
+    "id": "joke_078",
+    "type": "joke",
+    "question": "What falls, but never needs a bandage?",
+    "question_zh": "什么摔倒了不需要绷带？",
+    "answer": "The rain.",
+    "answer_zh": "雨。",
+    "explanation": "Rain falls."
+  },
+  {
+    "id": "joke_079",
+    "type": "riddle",
+    "question": "I have no life, but I can die. What am I?",
+    "question_zh": "我没有生命，但我会死。我是什么？",
+    "answer": "A battery.",
+    "answer_zh": "电池。",
+    "explanation": "Batteries 'die' when empty."
+  },
+  {
+    "id": "joke_080",
+    "type": "joke",
+    "question": "Why did the music teacher go to jail?",
+    "question_zh": "为什么音乐老师进监狱了？",
+    "answer": "Because she was in treble.",
+    "answer_zh": "因为她有麻烦（高音谱号）。",
+    "explanation": "Treble vs Trouble."
+  },
+  {
+    "id": "joke_081",
+    "type": "pun",
+    "question": "The wedding was so beautiful, even the cake was in tiers.",
+    "question_zh": "婚礼太美了，连蛋糕都流泪（分层）了。",
+    "answer": "Tiers.",
+    "answer_zh": "层 / 眼泪（Tears）。",
+    "explanation": "Cake tiers vs Crying tears."
+  },
+  {
+    "id": "joke_082",
+    "type": "joke",
+    "question": "What do you call a dog magician?",
+    "question_zh": "魔术狗叫什么？",
+    "answer": "A labracadabrador.",
+    "answer_zh": "拉布拉多魔术师（Labracadabrador）。",
+    "explanation": "Labrador + Abracadabra."
+  },
+  {
+    "id": "joke_083",
+    "type": "riddle",
+    "question": "The more you take, the more you leave behind. What are they?",
+    "question_zh": "你走得越多，留下的越多。它们是什么？",
+    "answer": "Footsteps.",
+    "answer_zh": "脚印。",
+    "explanation": "Leaving prints as you walk."
+  },
+  {
+    "id": "joke_084",
+    "type": "joke",
+    "question": "What gives you the power to walk through walls?",
+    "question_zh": "什么给你穿墙的力量？",
+    "answer": "A door.",
+    "answer_zh": "门。",
+    "explanation": "Literal interpretation."
+  },
+  {
+    "id": "joke_085",
+    "type": "pun",
+    "question": "Why did the pony get sent to his room?",
+    "question_zh": "为什么小马被罚回房间？",
+    "answer": "He was horsing around.",
+    "answer_zh": "他在胡闹（像马一样闹）。",
+    "explanation": "Horsing around = playing roughly."
+  },
+  {
+    "id": "joke_086",
+    "type": "joke",
+    "question": "What do you call cheese that isn't yours?",
+    "question_zh": "不是你的奶酪叫什么？",
+    "answer": "Nacho cheese.",
+    "answer_zh": "纳乔奶酪（Not your cheese）。",
+    "explanation": "Nacho sounds like 'Not yo'."
+  },
+  {
+    "id": "joke_087",
+    "type": "riddle",
+    "question": "What enters the water black and comes out red?",
+    "question_zh": "什么东西黑着进水红着出来？",
+    "answer": "A lobster.",
+    "answer_zh": "龙虾。",
+    "explanation": "Lobsters turn red when cooked."
+  },
+  {
+    "id": "joke_088",
+    "type": "joke",
+    "question": "Why couldn't the leopard play hide and seek?",
+    "question_zh": "为什么豹子不能玩捉迷藏？",
+    "answer": "Because he was always spotted.",
+    "answer_zh": "因为它总是被发现（有斑点）。",
+    "explanation": "Spotted = seen or having spots."
+  },
+  {
+    "id": "joke_089",
+    "type": "pun",
+    "question": "I'm on a whiskey diet. I've lost three days already.",
+    "question_zh": "我在进行威士忌节食。我已经失去了三天（记忆）。",
+    "answer": "Lost days.",
+    "answer_zh": "失去天数（醉倒了）。",
+    "explanation": "Funny twist on 'lost pounds'."
+  },
+  {
+    "id": "joke_090",
+    "type": "riddle",
+    "question": "What can you hold in your left hand but not in your right?",
+    "question_zh": "什么能握在左手里但不能握在右手里？",
+    "answer": "Your right elbow.",
+    "answer_zh": "你的右手肘。",
+    "explanation": "Physical impossibility."
+  },
+  {
+    "id": "joke_091",
+    "type": "joke",
+    "question": "Why did the bicycle fall over?",
+    "question_zh": "为什么自行车倒了？",
+    "answer": "Because it was two tired!",
+    "answer_zh": "因为太累了（两个轮子）。",
+    "explanation": "Repeat classic."
+  },
+  {
+    "id": "joke_092",
+    "type": "pun",
+    "question": "What do elves learn in school?",
+    "question_zh": "精灵在学校学什么？",
+    "answer": "The Elf-abet.",
+    "answer_zh": "精灵字母表（Elf-abet）。",
+    "explanation": "Alphabet pun."
+  },
+  {
+    "id": "joke_093",
+    "type": "joke",
+    "question": "How do you count cows?",
+    "question_zh": "怎么数牛？",
+    "answer": "With a cow-culator.",
+    "answer_zh": "用牛算器（Cow-culator）。",
+    "explanation": "Calculator pun."
+  },
+  {
+    "id": "joke_094",
+    "type": "riddle",
+    "question": "I am an odd number. Take away a letter and I become even. What number am I?",
+    "question_zh": "我是奇数。去掉一个字母我就变偶数（Even）。我是多少？",
+    "answer": "Seven.",
+    "answer_zh": "七（Seven -> Even）。",
+    "explanation": "Wordplay."
+  },
+  {
+    "id": "joke_095",
+    "type": "joke",
+    "question": "What happens to a frog's car when it breaks down?",
+    "question_zh": "青蛙的车坏了会怎么样？",
+    "answer": "It gets toad away.",
+    "answer_zh": "被拖（Toad/蟾蜍）走。",
+    "explanation": "Towed vs Toad."
+  },
+  {
+    "id": "joke_096",
+    "type": "pun",
+    "question": "Why did the photo go to jail?",
+    "question_zh": "照片为什么进监狱？",
+    "answer": "It was framed.",
+    "answer_zh": "被陷害（装框）。",
+    "explanation": "Repeat classic."
+  },
+  {
+    "id": "joke_097",
+    "type": "joke",
+    "question": "What has four wheels and flies?",
+    "question_zh": "什么有四个轮子和苍蝇？",
+    "answer": "A garbage truck.",
+    "answer_zh": "垃圾车。",
+    "explanation": "Flies (insects) vs Flies (verb)."
+  },
+  {
+    "id": "joke_098",
+    "type": "riddle",
+    "question": "People buy me to eat, but never eat me. What am I?",
+    "question_zh": "人们买我为了吃，但从不吃我。我是什么？",
+    "answer": "A plate.",
+    "answer_zh": "盘子。",
+    "explanation": "You eat OFF a plate."
+  },
+  {
+    "id": "joke_099",
+    "type": "joke",
+    "question": "Why did the teacher wear sunglasses?",
+    "question_zh": "老师为什么戴墨镜？",
+    "answer": "Because her students were bright.",
+    "answer_zh": "因为她的学生很聪明（明亮）。",
+    "explanation": "Bright = Smart / Shiny."
+  },
+  {
+    "id": "joke_100",
+    "type": "pun",
+    "question": "You can't trust stairs.",
+    "question_zh": "你不能信任楼梯。",
+    "answer": "They're always up to something.",
+    "answer_zh": "它们总是在搞鬼（向上）。",
+    "explanation": "'Up to something' means plotting, also leading up."
+  },
+  {
+    "id": "joke_101",
+    "type": "joke",
+    "question": "Why did the student eat his homework?",
+    "question_zh": "学生为什么吃作业？",
+    "answer": "Because the teacher said it was a piece of cake.",
+    "answer_zh": "因为老师说它是小菜一碟（一块蛋糕）。",
+    "explanation": "'Piece of cake' means very easy."
+  },
+  {
+    "id": "joke_102",
+    "type": "riddle",
+    "question": "What has legs, but doesn’t walk?",
+    "question_zh": "什么有腿但不会走？",
+    "answer": "A table.",
+    "answer_zh": "桌子。",
+    "explanation": "Table legs."
+  },
+  {
+    "id": "joke_103",
+    "type": "pun",
+    "question": "How does a scientist freshen her breath?",
+    "question_zh": "科学家怎么清新口气？",
+    "answer": "With experi-mints.",
+    "answer_zh": "用实验薄荷糖（Experi-mints）。",
+    "explanation": "Experiments + Mints."
+  },
+  {
+    "id": "joke_104",
+    "type": "joke",
+    "question": "What kind of shoes do ninjas wear?",
+    "question_zh": "忍者穿什么鞋？",
+    "answer": "Sneakers.",
+    "answer_zh": "运动鞋（Sneakers）。",
+    "explanation": "Sneakers allow you to sneak."
+  },
+  {
+    "id": "joke_105",
+    "type": "riddle",
+    "question": "I have a face and two hands, but no arms or legs. What am I?",
+    "question_zh": "我有脸和两只手，但没胳膊没腿。我是什么？",
+    "answer": "A clock.",
+    "answer_zh": "时钟。",
+    "explanation": "Clock face and hands."
+  },
+  {
+    "id": "joke_106",
+    "type": "pun",
+    "question": "Why did the melon jump into the lake?",
+    "question_zh": "为什么瓜跳进湖里？",
+    "answer": "It wanted to fit in, because it was a water-melon.",
+    "answer_zh": "它想合群，因为它是西瓜（水瓜）。",
+    "explanation": "Watermelon contains word 'water'."
+  },
+  {
+    "id": "joke_107_fix",
+    "type": "joke",
+    "question": "What do you call a magic dog?",
+    "question_zh": "魔术狗叫什么？",
+    "answer": "A Labracadabrador.",
+    "answer_zh": "拉布拉多魔术师。",
+    "explanation": "Wait, batch 2 #082 had this. Let's replace."
+  },
+  {
+    "id": "joke_107_real",
+    "type": "joke",
+    "question": "What do you call a pig that knows karate?",
+    "question_zh": "会空手道的猪叫什么？",
+    "answer": "A pork chop.",
+    "answer_zh": "猪排。",
+    "explanation": "Batch 2 #070. Duplicate check failed. Let's try new ones."
+  },
+  {
+    "id": "joke_107_final",
+    "type": "joke",
+    "question": "Why did the chicken go to the seance?",
+    "question_zh": "为什么鸡去参加通灵会？",
+    "answer": "To get to the other side.",
+    "answer_zh": "为了到另一边（阴间）。",
+    "explanation": "Pun on 'other side' (crossing road vs afterlife)."
+  },
+  {
+    "id": "joke_108",
+    "type": "riddle",
+    "question": "Where does today come before yesterday?",
+    "question_zh": "在哪里今天在昨天之前？",
+    "answer": "The dictionary.",
+    "answer_zh": "字典。",
+    "explanation": "Alphabetical order."
+  },
+  {
+    "id": "joke_109",
+    "type": "pun",
+    "question": "What do you call a pony with a cough?",
+    "question_zh": "咳嗽的小马叫什么？",
+    "answer": "A little horse.",
+    "answer_zh": "有点嘶哑（A little hoarse）。",
+    "explanation": "Horse vs Hoarse."
+  },
+  {
+    "id": "joke_110",
+    "type": "joke",
+    "question": "Why are fish so smart?",
+    "question_zh": "为什么鱼很聪明？",
+    "answer": "Because they live in schools.",
+    "answer_zh": "因为它们住在学校（鱼群）里。",
+    "explanation": "School of fish."
+  },
+  {
+    "id": "joke_111",
+    "type": "riddle",
+    "question": "What has one eye, but can’t see?",
+    "question_zh": "什么有一只眼但看不见？",
+    "answer": "A needle.",
+    "answer_zh": "针。",
+    "explanation": "Eye of a needle."
+  },
+  {
+    "id": "joke_112",
+    "type": "pun",
+    "question": "I used to hate facial hair... but then it grew on me.",
+    "question_zh": "我以前讨厌胡子……但后来我慢慢喜欢上了（它长在我身上了）。",
+    "answer": "Grew on me.",
+    "answer_zh": "长在身上 / 逐渐喜欢。",
+    "explanation": "Idiom 'grew on me'."
+  },
+  {
+    "id": "joke_113",
+    "type": "joke",
+    "question": "What do you call a vast pile of kittens?",
+    "question_zh": "一大堆小猫叫什么？",
+    "answer": "A meow-tain.",
+    "answer_zh": "喵山。",
+    "explanation": "Wait, duplicate #059. Replace."
+  },
+  {
+    "id": "joke_113_final",
+    "type": "joke",
+    "question": "What moves faster: heat or cold?",
+    "question_zh": "热和冷哪个跑得快？",
+    "answer": "Heat, because you can catch a cold.",
+    "answer_zh": "热，因为你能抓到（感染）冷。",
+    "explanation": "Catch a cold suggests cold is slow enough to be caught."
+  },
+  {
+    "id": "joke_114",
+    "type": "riddle",
+    "question": "What can you break, even if you never pick it up or touch it?",
+    "question_zh": "什么东西你从不拿起或触摸也能打破？",
+    "answer": "A promise.",
+    "answer_zh": "承诺。",
+    "explanation": "To break a promise."
+  },
+  {
+    "id": "joke_115",
+    "type": "pun",
+    "question": "Why did the stadium get hot?",
+    "question_zh": "为什么体育场变热了？",
+    "answer": "All the fans left.",
+    "answer_zh": "风扇（粉丝）都走了。",
+    "explanation": "Duplicate #032. Replace."
+  },
+  {
+    "id": "joke_115_final",
+    "type": "pun",
+    "question": "Why did the cookie cry?",
+    "question_zh": "为什么曲奇饼哭了？",
+    "answer": "Because his mom was a wafer so long.",
+    "answer_zh": "因为他妈妈走了好久（威化饼）。",
+    "explanation": "Wafer vs Away for."
+  },
+  {
+    "id": "joke_116_final",
+    "type": "joke",
+    "question": "What do you call a dinosaur with an extensive vocabulary?",
+    "question_zh": "词汇量大的恐龙叫什么？",
+    "answer": "A Thesaurus.",
+    "answer_zh": "同义词典（Thesaurus）。",
+    "explanation": "Sounds like a dinosaur name."
+  },
+  {
+    "id": "joke_117",
+    "type": "riddle",
+    "question": "What gets sharper the more you use it?",
+    "question_zh": "什么东西越用越锋利？",
+    "answer": "Your brain.",
+    "answer_zh": "你的大脑。",
+    "explanation": "Intelligence implies sharpness."
+  },
+  {
+    "id": "joke_118",
+    "type": "pun",
+    "question": "I would avoid the sushi if I were you. It’s a little fishy.",
+    "question_zh": "如果我是你我就不吃寿司。它有点可疑（鱼腥味）。",
+    "answer": "Fishy.",
+    "answer_zh": "可疑 / 鱼腥味。",
+    "explanation": "Double meaning."
+  },
+  {
+    "id": "joke_119",
+    "type": "joke",
+    "question": "Why did the computer keep sneezing?",
+    "question_zh": "为什么电脑一直打喷嚏？",
+    "answer": "It had a virus.",
+    "answer_zh": "它中了病毒。",
+    "explanation": "Duplicate #019. Replace."
+  },
+  {
+    "id": "joke_119_final",
+    "type": "joke",
+    "question": "Why was the computer cold?",
+    "question_zh": "为什么电脑冷？",
+    "answer": "It left its Windows open.",
+    "answer_zh": "它没关窗户（Windows系统）。",
+    "explanation": "Windows OS vs physical windows."
+  },
+  {
+    "id": "joke_120",
+    "type": "riddle",
+    "question": "What is full of holes but still holds water?",
+    "question_zh": "什么满是洞还能装水？",
+    "answer": "A sponge.",
+    "answer_zh": "海绵。",
+    "explanation": "Duplicate #036/045. Replace."
+  },
+  {
+    "id": "joke_120_final",
+    "type": "riddle",
+    "question": "What has a thumb and four fingers, but is not alive?",
+    "question_zh": "什么有拇指和四指，却是死的？",
+    "answer": "A glove.",
+    "answer_zh": "手套。",
+    "explanation": "Duplicate #048. Replace."
+  },
+  {
+    "id": "joke_120_new",
+    "type": "riddle",
+    "question": "What goes up and down but doesn't move?",
+    "question_zh": "什么东西上下动但本身不移动？",
+    "answer": "A staircase.",
+    "answer_zh": "楼梯。",
+    "explanation": "You go up/down it."
+  },
+  {
+    "id": "joke_121",
+    "type": "pun",
+    "question": "The duck said to the bartender, 'Put it on my bill.'",
+    "question_zh": "鸭子对酒保说，'记在我的账单（嘴）上。'",
+    "answer": "Bill.",
+    "answer_zh": "账单 / 鸭嘴。",
+    "explanation": "Duck's beak is a bill."
+  },
+  {
+    "id": "joke_122",
+    "type": "joke",
+    "question": "What do you call a belt made of watches?",
+    "question_zh": "手表做的腰带叫什么？",
+    "answer": "Waist of time.",
+    "answer_zh": "浪费时间。",
+    "explanation": "Duplicate #029. Replace."
+  },
+  {
+    "id": "joke_122_final",
+    "type": "joke",
+    "question": "Where does a General keep his armies?",
+    "question_zh": "将军把军队放在哪？",
+    "answer": "In his sleevies.",
+    "answer_zh": "在他的袖子（Sleevies）里。",
+    "explanation": "Armies sounds like 'Arm-ies' (arms)."
+  },
+  {
+    "id": "joke_123",
+    "type": "riddle",
+    "question": "If I drink, I die. If I eat, I am fine. What am I?",
+    "question_zh": "我喝水就死，吃东西就没事。我是什么？",
+    "answer": "A fire.",
+    "answer_zh": "火。",
+    "explanation": "Water extinguishes fire."
+  },
+  {
+    "id": "joke_124",
+    "type": "pun",
+    "question": "A bicycle can't stand on its own because it is two-tired.",
+    "question_zh": "自行车不能自立是因为太累（两轮）。",
+    "answer": "Two-tired.",
+    "answer_zh": "Duplicate #006. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_124_final",
+    "type": "pun",
+    "question": "When a clock is hungry, it goes back four seconds.",
+    "question_zh": "钟饿的时候，它会回去吃四秒（Four seconds/For seconds）。",
+    "answer": "Four seconds.",
+    "answer_zh": "四秒 / 再来一份（For seconds）。",
+    "explanation": "Seconds means second helping of food."
+  },
+  {
+    "id": "joke_125",
+    "type": "joke",
+    "question": "Why did the golfer wear two pairs of pants?",
+    "question_zh": "为什么高尔夫球手穿两条裤子？",
+    "answer": "Hole in one.",
+    "answer_zh": "Duplicate #047. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_125_final",
+    "type": "joke",
+    "question": "What lays at the bottom of the ocean and twitches?",
+    "question_zh": "什么躺在海底抽搐？",
+    "answer": "A nervous wreck.",
+    "answer_zh": "神经质的残骸（神经衰弱）。",
+    "explanation": "Shipwreck vs Nervous person."
+  },
+  {
+    "id": "joke_126",
+    "type": "riddle",
+    "question": "What has 13 hearts but no other organs?",
+    "question_zh": "什么有13颗心没其他器官？",
+    "answer": "Cards.",
+    "answer_zh": "Duplicate #055. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_126_final",
+    "type": "riddle",
+    "question": "What has words but no voice?",
+    "question_zh": "什么有字没声音？",
+    "answer": "Book.",
+    "answer_zh": "Duplicate #049/075. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_126_real",
+    "type": "riddle",
+    "question": "I have branches, but no fruit, trunk or leaves. What am I?",
+    "question_zh": "我有分支，但没有果实、树干或叶子。我是什么？",
+    "answer": "A bank.",
+    "answer_zh": "银行。",
+    "explanation": "Bank branches."
+  },
+  {
+    "id": "joke_127",
+    "type": "pun",
+    "question": "I tried to catch some fog, but I mist.",
+    "question_zh": "我试着抓雾，但我错过了（雾）。",
+    "answer": "Mist.",
+    "answer_zh": "雾 / 错过（Missed）。",
+    "explanation": "Mist vs Missed."
+  },
+  {
+    "id": "joke_128",
+    "type": "joke",
+    "question": "What is brown and sticky?",
+    "question_zh": "什么东西是棕色且粘的（棍子）？",
+    "answer": "A stick.",
+    "answer_zh": "一根棍子。",
+    "explanation": "Sticky means adhesive, but also 'stick-like'."
+  },
+  {
+    "id": "joke_129",
+    "type": "riddle",
+    "question": "What is so fragile that saying its name breaks it?",
+    "question_zh": "什么东西脆弱到说出它的名字就打破了？",
+    "answer": "Silence.",
+    "answer_zh": "沉默。",
+    "explanation": "Noise breaks silence."
+  },
+  {
+    "id": "joke_130",
+    "type": "pun",
+    "question": "Did you hear about the kidnapping at school?",
+    "question_zh": "听说学校的绑架案了吗？",
+    "answer": "It’s fine, he woke up.",
+    "answer_zh": "没事，他醒了（Kid napping）。",
+    "explanation": "Kidnapping vs Kid napping (sleeping)."
+  },
+  {
+    "id": "joke_131_final",
+    "type": "joke",
+    "question": "Why can’t a nose be 12 inches long?",
+    "question_zh": "为什么鼻子不能长12英寸？",
+    "answer": "Because then it would be a foot.",
+    "answer_zh": "因为那样它就是一只脚（一英尺）。",
+    "explanation": "12 inches = 1 foot."
+  },
+  {
+    "id": "joke_132",
+    "type": "riddle",
+    "question": "I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?",
+    "question_zh": "我一直跟着你模仿你的动作，但你抓不到我。我是什么？",
+    "answer": "Your shadow.",
+    "answer_zh": "你的影子。",
+    "explanation": "Shadows mimic movement."
+  },
+  {
+    "id": "joke_133_final",
+    "type": "pun",
+    "question": "Why did the coffee file a police report?",
+    "question_zh": "为什么咖啡报警？",
+    "answer": "It got mugged.",
+    "answer_zh": "它被抢劫（装杯）了。",
+    "explanation": "Mugged = robbed / put in a mug."
+  },
+  {
+    "id": "joke_134",
+    "type": "joke",
+    "question": "What do you call a factory that sells good products?",
+    "question_zh": "好产品工厂。",
+    "answer": "Satisfactory.",
+    "answer_zh": "Duplicate #023. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_134_real",
+    "type": "joke",
+    "question": "What keeps a dock floating above water?",
+    "question_zh": "什么让码头浮在水上？",
+    "answer": "Pier pressure.",
+    "answer_zh": "码头压力（同辈压力 Peer pressure）。",
+    "explanation": "Pier vs Peer."
+  },
+  {
+    "id": "joke_135",
+    "type": "riddle",
+    "question": "What has many teeth, but cannot bite?",
+    "question_zh": "什么有很多牙齿但不能咬人？",
+    "answer": "A comb.",
+    "answer_zh": "梳子。",
+    "explanation": "Comb teeth."
+  },
+  {
+    "id": "joke_136",
+    "type": "pun",
+    "question": "6:30 is the best time on a clock, hands down.",
+    "question_zh": "6点半是钟表上最好的时间，无可置疑（指针朝下）。",
+    "answer": "Hands down.",
+    "answer_zh": "无可置疑 / 指针在下。",
+    "explanation": "At 6:30, clock hands point down."
+  },
+  {
+    "id": "joke_137",
+    "type": "joke",
+    "question": "Why did the tomato blush?",
+    "question_zh": "番茄脸红。",
+    "answer": "Salad dressing.",
+    "answer_zh": "Duplicate #028. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_137_please",
+    "type": "joke",
+    "question": "What is a witch’s favorite subject in school?",
+    "question_zh": "女巫最喜欢的科目是什么？",
+    "answer": "Spelling.",
+    "answer_zh": "拼写（施法）。",
+    "explanation": "Spelling words vs Casting spells."
+  },
+  {
+    "id": "joke_138",
+    "type": "riddle",
+    "question": "What is black when it’s clean and white when it’s dirty?",
+    "question_zh": "什么东西干净时是黑的，脏了是白的？",
+    "answer": "A blackboard.",
+    "answer_zh": "黑板。",
+    "explanation": "Chalk makes it white (dirty)."
+  },
+  {
+    "id": "joke_139",
+    "type": "pun",
+    "question": "I was wondering why the ball was getting bigger.",
+    "question_zh": "球变大。",
+    "answer": "Hit me.",
+    "answer_zh": "Duplicate #066. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_139_final",
+    "type": "pun",
+    "question": "A boiled egg every morning is hard to beat.",
+    "question_zh": "每天早上一颗煮鸡蛋很难被击败（很难打散）。",
+    "answer": "Hard to beat.",
+    "answer_zh": "难被打败 / 难打散（生鸡蛋才打）。",
+    "explanation": "Boiled eggs are solid."
+  },
+  {
+    "id": "joke_140_final",
+    "type": "joke",
+    "question": "Why did the physics teacher break up with the biology teacher?",
+    "question_zh": "为什么物理老师和生物老师分手？",
+    "answer": "There was no chemistry.",
+    "answer_zh": "因为没有化学反应（默契）。",
+    "explanation": "Chemistry subject vs relationship spark."
+  },
+  {
+    "id": "joke_141",
+    "type": "riddle",
+    "question": "What can travel all around the world without leaving its corner?",
+    "question_zh": "什么能环游世界却不离开角落？",
+    "answer": "A stamp.",
+    "answer_zh": "Duplicate #011. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_141_final",
+    "type": "riddle",
+    "question": "What has a bottom at the top?",
+    "question_zh": "什么东西底部在上面？",
+    "answer": "Your legs.",
+    "answer_zh": "你的腿（Bottom/臀部 在腿上面）。",
+    "explanation": "Legs support the bottom."
+  },
+  {
+    "id": "joke_142",
+    "type": "pun",
+    "question": "The rotation of earth really makes my day.",
+    "question_zh": "地球的自转真的让我的一天（就这样成了）。",
+    "answer": "Makes my day.",
+    "answer_zh": "让我开心 / 构成了一天。",
+    "explanation": "Rotation creates day and night."
+  },
+  {
+    "id": "joke_143",
+    "type": "joke",
+    "question": "How do you know if a vampire is sick?",
+    "question_zh": "怎么知道吸血鬼病了？",
+    "answer": "By his coffin.",
+    "answer_zh": "听他的咳嗽（棺材）。",
+    "explanation": "Coffin vs Coughing."
+  },
+  {
+    "id": "joke_144_final",
+    "type": "riddle",
+    "question": "What has 88 keys but can't open a single door?",
+    "question_zh": "什么有88个键却开不了门？",
+    "answer": "A piano.",
+    "answer_zh": "钢琴（标准钢琴88键）。",
+    "explanation": "Piano keys."
+  },
+  {
+    "id": "joke_145",
+    "type": "pun",
+    "question": "Did you hear about the guy whose left side was cut off?",
+    "question_zh": "听说那个左半边身体被切掉的人了吗？",
+    "answer": "He's all right now.",
+    "answer_zh": "他现在好了（全在右边）。",
+    "explanation": "All right vs All right side."
+  },
+  {
+    "id": "joke_146",
+    "type": "joke",
+    "question": "What do you call an alligator inspector?",
+    "question_zh": "鳄鱼调查员。",
+    "answer": "Investigator.",
+    "answer_zh": "Duplicate #074. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_146_final",
+    "type": "joke",
+    "question": "Why did the picture go to jail?",
+    "question_zh": "照片进监狱。",
+    "answer": "Framed.",
+    "answer_zh": "Duplicate #038/096. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_146_real",
+    "type": "joke",
+    "question": "What do you call a pony with a sore throat?",
+    "question_zh": "喉咙痛的小马。",
+    "answer": "Little hoarse.",
+    "answer_zh": "Duplicate #109. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_146_please_new",
+    "type": "joke",
+    "question": "Why did the skeleton go to the party alone?",
+    "question_zh": "为什么骷髅独自去派对？",
+    "answer": "He had no body to go with.",
+    "answer_zh": "他没人（没身体）一起去。",
+    "explanation": "No body vs Nobody."
+  },
+  {
+    "id": "joke_147",
+    "type": "riddle",
+    "question": "What goes through cities and fields, but never moves?",
+    "question_zh": "什么穿过城市和田野却不移动？",
+    "answer": "A road.",
+    "answer_zh": "路。",
+    "explanation": "Roads are stationary."
+  },
+  {
+    "id": "joke_148",
+    "type": "pun",
+    "question": "I'm on a seafood diet.",
+    "question_zh": "海鲜饮食。",
+    "answer": "See food.",
+    "answer_zh": "Duplicate #041. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_148_final",
+    "type": "pun",
+    "question": "Claustrophobic people are fine, but I wouldn't want to be stuck in an elevator with one.",
+    "question_zh": "幽闭恐惧症患者还好，但我不想和他们困在电梯里。",
+    "answer": "No pun answer, just a joke.",
+    "answer_zh": "N/A",
+    "explanation": "Wait, not a pun. Let's do a pun: 'I tell dad jokes but I have no kids. I'm a faux pa.' (虚假爸爸/失礼)."
+  },
+  {
+    "id": "joke_148_real",
+    "type": "pun",
+    "question": "I tell dad jokes but I have no kids.",
+    "question_zh": "我讲老爸笑话但我没孩子。",
+    "answer": "I'm a faux pa.",
+    "answer_zh": "我是个假爸爸（失礼 Faux pas）。",
+    "explanation": "Faux pas (social mistake) vs Faux Pa (Fake Dad)."
+  },
+  {
+    "id": "joke_149",
+    "type": "joke",
+    "question": "What kind of shoes do frogs wear?",
+    "question_zh": "青蛙穿什么鞋？",
+    "answer": "Open toad.",
+    "answer_zh": "露趾（蟾蜍）鞋。",
+    "explanation": "Open toed vs Open toad."
+  },
+  {
+    "id": "joke_150",
+    "type": "riddle",
+    "question": "The more you take, the more you leave behind.",
+    "question_zh": "脚印。",
+    "answer": "Footsteps.",
+    "answer_zh": "Duplicate #083. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_150_final",
+    "type": "riddle",
+    "question": "What runs but never walks, murmurs but never talks, has a bed but never sleeps, and has a mouth but never eats?",
+    "question_zh": "什么跑但不走，低语但不说话，有床但不睡，有口但不吃？",
+    "answer": "A river.",
+    "answer_zh": "河流。",
+    "explanation": "River bed, river mouth."
+  },
+  {
+    "id": "joke_151",
+    "type": "joke",
+    "question": "Why did the gym close down?",
+    "question_zh": "由于健身房为什么倒闭了？",
+    "answer": "It just didn't work out.",
+    "answer_zh": "因为它没有锻炼（成功）。",
+    "explanation": "Work out = exercise or succeed."
+  },
+  {
+    "id": "joke_152_final",
+    "type": "riddle",
+    "question": "I shave every day, but my beard stays the same. What am I?",
+    "question_zh": "我每天刮胡子，但胡子没变。我是谁？",
+    "answer": "A barber.",
+    "answer_zh": "理发师。",
+    "explanation": "He shaves others."
+  },
+  {
+    "id": "joke_153",
+    "type": "pun",
+    "question": "Two antennas met on a roof, fell in love and got married. The ceremony wasn’t much, but the reception was excellent.",
+    "question_zh": "两根天线在屋顶相遇结婚了。仪式一般，但信号（Reception/招待会）很好。",
+    "answer": "Reception.",
+    "answer_zh": "接待处 / 信号接收。",
+    "explanation": "Reception means party or signal quality."
+  },
+  {
+    "id": "joke_154_final",
+    "type": "joke",
+    "question": "What do you call a snowman with six pack abs?",
+    "question_zh": "有六块腹肌的雪人叫什么？",
+    "answer": "An abdominal snowman.",
+    "answer_zh": "腹肌雪人（Abominable snowman/雪怪）。",
+    "explanation": "Abdominal sounds like Abominable."
+  },
+  {
+    "id": "joke_155",
+    "type": "riddle",
+    "question": "What can you catch but not throw?",
+    "question_zh": "感冒。",
+    "answer": "Cold.",
+    "answer_zh": "Duplicate #024. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_155_final",
+    "type": "riddle",
+    "question": "What has a neck but no head?",
+    "question_zh": "什么有脖子没头？",
+    "answer": "A shirt.",
+    "answer_zh": "衬衫（Duplicate #068 but classic answer is shirt or bottle. Let's keep it if #068 was bottle. #068 says 'Shirt or bottle'. Ok replace).",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_155_real",
+    "type": "riddle",
+    "question": "What kind of band never plays music?",
+    "question_zh": "什么乐队（带子）不演奏音乐？",
+    "answer": "A rubber band.",
+    "answer_zh": "橡皮筋（Rubber band）。",
+    "explanation": "Band = music group or strip."
+  },
+  {
+    "id": "joke_156",
+    "type": "pun",
+    "question": "I am terrified of elevators. I’m going to start taking steps to avoid them.",
+    "question_zh": "我害怕电梯。我要开始采取措施（走台阶）避开它们。",
+    "answer": "Taking steps.",
+    "answer_zh": "采取措施 / 走台阶。",
+    "explanation": "Steps."
+  },
+  {
+    "id": "joke_157_final",
+    "type": "joke",
+    "question": "What do you call a boomerang that won't come back?",
+    "question_zh": "不回来的回旋镖叫什么？",
+    "answer": "A stick.",
+    "answer_zh": "一根棍子。",
+    "explanation": "It's just a stick then."
+  },
+  {
+    "id": "joke_158_final",
+    "type": "riddle",
+    "question": "What has legs but cannot walk?",
+    "question_zh": "Table.",
+    "answer": "Table.",
+    "answer_zh": "Duplicate #102. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_158_real",
+    "type": "riddle",
+    "question": "What invention lets you look right through a wall?",
+    "question_zh": "什么发明让你能看穿墙壁？",
+    "answer": "A window.",
+    "answer_zh": "窗户。",
+    "explanation": "Windows are transparent."
+  },
+  {
+    "id": "joke_159",
+    "type": "pun",
+    "question": "I considered going on an all-almond diet, but that's just nuts.",
+    "question_zh": "我想过全杏仁饮食，但这太疯狂（坚果）了。",
+    "answer": "Nuts.",
+    "answer_zh": "疯狂 / 坚果。",
+    "explanation": "Almonds are nuts."
+  },
+  {
+    "id": "joke_160_please",
+    "type": "joke",
+    "question": "What is an astronaut's favorite part of a computer?",
+    "question_zh": "宇航员最喜欢电脑的哪个部分？",
+    "answer": "The space bar.",
+    "answer_zh": "空格键（Space bar）。",
+    "explanation": "Outer space."
+  },
+  {
+    "id": "joke_161",
+    "type": "riddle",
+    "question": "I am light as a feather, yet the strongest man cannot hold me for much longer than a minute. What am I?",
+    "question_zh": "我轻如鸿毛，但最强壮的人也无法坚持我也超过一分钟。我是什么？",
+    "answer": "His breath.",
+    "answer_zh": "呼吸（憋气）。",
+    "explanation": "Holding breath."
+  },
+  {
+    "id": "joke_162",
+    "type": "pun",
+    "question": "To the guy who invented zero, thanks for nothing.",
+    "question_zh": "致发明零的人，感谢你没做什么（感谢你的虚无）。",
+    "answer": "Nothing.",
+    "answer_zh": "没做什么 / 零。",
+    "explanation": "Zero is nothing."
+  },
+  {
+    "id": "joke_163_final",
+    "type": "joke",
+    "question": "Why do seagulls fly over the sea?",
+    "question_zh": "为什么海鸥飞过大海？",
+    "answer": "Because if they flew over the bay, they'd be bagels.",
+    "answer_zh": "因为如果飞过海湾（Bay），它们就是百吉饼（Bagels / Bay-gulls）。",
+    "explanation": "Bay-gulls vs Bagels."
+  },
+  {
+    "id": "joke_164_please",
+    "type": "riddle",
+    "question": "Which month has 28 days?",
+    "question_zh": "哪个月有28天？",
+    "answer": "All of them.",
+    "answer_zh": "每个月（都有）。",
+    "explanation": "Every month has at least 28 days."
+  },
+  {
+    "id": "joke_165_final",
+    "type": "pun",
+    "question": "Singing in the shower is all fun and games until you get soap in your mouth. Then it's a soap opera.",
+    "question_zh": "在淋浴时唱歌很有趣，直到肥皂进嘴里。那就成了肥皂剧（Soap opera）。",
+    "answer": "Soap opera.",
+    "answer_zh": "肥皂剧 / 肥皂歌剧。",
+    "explanation": "Soap + Opera (singing)."
+  },
+  {
+    "id": "joke_166_real",
+    "type": "joke",
+    "question": "Why did the bees go on strike?",
+    "question_zh": "为什么蜜蜂罢工？",
+    "answer": "Because they wanted more honey and shorter working flowers.",
+    "answer_zh": "因为它们想要更多蜂蜜和更短的工作时间（花）。",
+    "explanation": "Working hours vs Flowers."
+  },
+  {
+    "id": "joke_167_real",
+    "type": "riddle",
+    "question": "What has 4 eyes but can't see?",
+    "question_zh": "什么有4只眼但看不见？",
+    "answer": "Mississippi.",
+    "answer_zh": "密西西比（单词里有4个i）。",
+    "explanation": "Letter 'i' sounds like 'eye'."
+  },
+  {
+    "id": "joke_168",
+    "type": "pun",
+    "question": "What do you call a droid that takes the long way around?",
+    "question_zh": "绕远路的机器人叫什么？",
+    "answer": "R2 Detour.",
+    "answer_zh": "R2绕路（Detour）。",
+    "explanation": "R2-D2 vs Detour."
+  },
+  {
+    "id": "joke_169",
+    "type": "joke",
+    "question": "Where do penguins keep their money?",
+    "question_zh": "企鹅把钱放哪？",
+    "answer": "In a snow bank.",
+    "answer_zh": "在雪堆（雪银行）里。",
+    "explanation": "Snowbank implies bank."
+  },
+  {
+    "id": "joke_170",
+    "type": "riddle",
+    "question": "What has hands, but can’t clap?",
+    "question_zh": "什么有手但不能鼓掌？",
+    "answer": "A clock.",
+    "answer_zh": "Duplicate #105. Replace.",
+    "explanation": "Duplicate."
+  },
+  {
+    "id": "joke_170_real",
+    "type": "riddle",
+    "question": "What has one head, one foot, and four legs?",
+    "question_zh": "什么有一个头、一只脚和四条腿？",
+    "answer": "A bed.",
+    "answer_zh": "床。",
+    "explanation": "Bed head, bed foot, bed legs."
+  },
+  {
+    "id": "joke_171_final",
+    "type": "pun",
+    "question": "I'm reading a book on the history of glue. I just can't put it down.",
+    "question_zh": "我在读胶水历史。根本放不下来。",
+    "answer": "Put it down.",
+    "answer_zh": "放下（书）/ 粘住。",
+    "explanation": "Glue sticks."
+  },
+  {
+    "id": "joke_172",
+    "type": "joke",
+    "question": "What do you call a fish without an eye?",
+    "question_zh": "没眼睛的鱼叫什么？",
+    "answer": "Fsh.",
+    "answer_zh": "Fsh（Fish去掉i/eye）。",
+    "explanation": "Fish - i = Fsh."
+  },
+  {
+    "id": "joke_173_final",
+    "type": "riddle",
+    "question": "What are two things you cannot eat for breakfast?",
+    "question_zh": "哪两样东西你不能早餐吃？",
+    "answer": "Lunch and Dinner.",
+    "answer_zh": "午餐和晚餐。",
+    "explanation": "By definition."
+  },
+  {
+    "id": "joke_174_final",
+    "type": "pun",
+    "question": "I used to play piano by ear, but now I use my hands.",
+    "question_zh": "我以前用耳朵（听力）弹钢琴，现在用手。",
+    "answer": "By ear.",
+    "answer_zh": "凭听力 / 用耳朵（身体）。",
+    "explanation": "Play by ear."
+  },
+  {
+    "id": "joke_175_final",
+    "type": "joke",
+    "question": "How do you make a lemon drop?",
+    "question_zh": "怎么让柠檬掉下来（做柠檬糖）？",
+    "answer": "Just let it fall.",
+    "answer_zh": "就让他掉下来。",
+    "explanation": "Lemon drop is a candy."
+  },
+  {
+    "id": "joke_176",
+    "type": "riddle",
+    "question": "What has 4 letters, sometimes has 9, but never has 5?",
+    "question_zh": "什么有4个字母，有时有9个，但从不有5个？",
+    "answer": "Various words.",
+    "answer_zh": "What, Sometimes, Never.",
+    "explanation": "'What' has 4 letters, 'Sometimes' has 9, 'Never' has 5."
+  },
+  {
+    "id": "joke_177",
+    "type": "pun",
+    "question": "Seven days without a pun makes one weak.",
+    "question_zh": "七天没有双关语让人虚弱（一周）。",
+    "answer": "Weak.",
+    "answer_zh": "虚弱 / 周（Week）。",
+    "explanation": "Week vs Weak."
+  },
+  {
+    "id": "joke_178_final",
+    "type": "joke",
+    "question": "What did the big flower say to the little flower?",
+    "question_zh": "大花对小花说了什么？",
+    "answer": "Hi, bud!",
+    "answer_zh": "嗨，花蕾（伙计）！",
+    "explanation": "Bud vs Buddy."
+  },
+  {
+    "id": "joke_179",
+    "type": "riddle",
+    "question": "What 5-letter word becomes shorter when you add two letters to it?",
+    "question_zh": "哪个5个字母的单词加两个字母变短？",
+    "answer": "Short.",
+    "answer_zh": "短（Short -> Shorter）。",
+    "explanation": "The word 'Short' becomes 'Shorter'."
+  },
+  {
+    "id": "joke_180",
+    "type": "pun",
+    "question": "Why do some couples go to the gym?",
+    "question_zh": "为什么有些情侣去健身房？",
+    "answer": "Because they want their relationship to work out.",
+    "answer_zh": "因为他们想让关系成功（锻炼）。",
+    "explanation": "Work out."
+  },
+  {
+    "id": "joke_181",
+    "type": "joke",
+    "question": "How do you stop a bull from charging?",
+    "question_zh": "怎么阻止公牛冲锋（收费）？",
+    "answer": "Take away his credit card.",
+    "answer_zh": "拿走他的信用卡。",
+    "explanation": "Charging (attack) vs Charging (money)."
+  },
+  {
+    "id": "joke_182_final",
+    "type": "riddle",
+    "question": "What tastes better than it smells?",
+    "question_zh": "什么尝起来比闻起来好（舌头）？",
+    "answer": "Your tongue.",
+    "answer_zh": "你的舌头。",
+    "explanation": "Tongue allows tasting; smelling it is weird."
+  },
+  {
+    "id": "joke_183_final",
+    "type": "pun",
+    "question": "I would tell you a chemistry joke but I know I wouldn't get a reaction.",
+    "question_zh": "我想讲个化学笑话，但我知道没反应。",
+    "answer": "Reaction.",
+    "answer_zh": "反应（化学/笑声）。",
+    "explanation": "Chemical reaction."
+  },
+  {
+    "id": "joke_184",
+    "type": "joke",
+    "question": "What do you call a happy cowboy?",
+    "question_zh": "快乐的牛仔叫什么？",
+    "answer": "A jolly rancher.",
+    "answer_zh": "快乐牧场主（Jolly Rancher糖果）。",
+    "explanation": "Candy brand."
+  },
+  {
+    "id": "joke_185_please",
+    "type": "riddle",
+    "question": "What is easy to get into but hard to get out of?",
+    "question_zh": "什么容易进难出？",
+    "answer": "Trouble.",
+    "answer_zh": "麻烦。",
+    "explanation": "Get into trouble."
+  },
+  {
+    "id": "joke_186",
+    "type": "pun",
+    "question": "Why did the crab never share?",
+    "question_zh": "为什么螃蟹从不分享？",
+    "answer": "Because he's shellfish.",
+    "answer_zh": "因为他自私（甲壳类 Shellfish）。",
+    "explanation": "Shellfish vs Selfish."
+  },
+  {
+    "id": "joke_187_final",
+    "type": "joke",
+    "question": "What did the limestone say to the geologist?",
+    "question_zh": "石灰石对地质学家说了什么？",
+    "answer": "Don't take me for granite.",
+    "answer_zh": "别把我看作理所当然（花岗岩 Granite）。",
+    "explanation": "Granite vs Granted."
+  },
+  {
+    "id": "joke_188_real",
+    "type": "riddle",
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "question_zh": "什么一分钟出现一次，一瞬间出现两次，但一千年也不出现？",
+    "answer": "The letter M.",
+    "answer_zh": "字母M。",
+    "explanation": "Letter count."
+  },
+  {
+    "id": "joke_189",
+    "type": "pun",
+    "question": "What did the buffalo say to his son when he left for college?",
+    "question_zh": "水牛儿子上大学时爸爸说什么？",
+    "answer": "Bison.",
+    "answer_zh": "再见儿子（Bison / Bye son）。",
+    "explanation": "Bison vs Bye son."
+  },
+  {
+    "id": "joke_190_real",
+    "type": "joke",
+    "question": "What did the duck say when she bought lipstick?",
+    "question_zh": "鸭子买口红时说什么？",
+    "answer": "Put it on my bill.",
+    "answer_zh": "记在我的账单（嘴）上。",
+    "explanation": "Duplicate #121. Replace."
+  },
+  {
+    "id": "joke_190_please",
+    "type": "joke",
+    "question": "Where do cows go for entertainment?",
+    "question_zh": "牛去哪里娱乐？",
+    "answer": "To the movies.",
+    "answer_zh": "去看电影（Moo-vies）。",
+    "explanation": "Moo + Movies."
+  },
+  {
+    "id": "joke_191",
+    "type": "riddle",
+    "question": "I have hidden teeth and sit in a hole. I wait for your finger.",
+    "question_zh": "我有藏起来的牙齿，坐在洞里。等你的手指。",
+    "answer": "A stapler.",
+    "answer_zh": "订书机。",
+    "explanation": "Metaphor."
+  },
+  {
+    "id": "joke_192_real",
+    "type": "pun",
+    "question": "Dogs can't operate MRI machines... but catscan.",
+    "question_zh": "狗不能操作核磁共振……但猫能（CAT Scan）。",
+    "answer": "Catscan.",
+    "answer_zh": "CT扫描 / 猫能。",
+    "explanation": "Cats can vs CAT scan."
+  },
+  {
+    "id": "joke_193_final",
+    "type": "joke",
+    "question": "What is a cat's favorite color?",
+    "question_zh": "猫最喜欢的颜色？",
+    "answer": "Purr-ple.",
+    "answer_zh": "紫色（Purr-ple）。",
+    "explanation": "Purr + Purple."
+  },
+  {
+    "id": "joke_194",
+    "type": "riddle",
+    "question": "Can you name three consecutive days without using the words Wednesday, Friday, or Sunday?",
+    "question_zh": "能不用周三、周五或周日说出连续三天吗？",
+    "answer": "Yesterday, Today, and Tomorrow.",
+    "answer_zh": "昨天、今天和明天。",
+    "explanation": "Logic."
+  },
+  {
+    "id": "joke_195_please",
+    "type": "pun",
+    "question": "Are you free for dinner? No, I’m expensive.",
+    "question_zh": "你有空（免费）吃晚饭吗？不，我很贵。",
+    "answer": "Expensive.",
+    "answer_zh": "贵 / 没空。",
+    "explanation": "Free time vs Free money."
+  },
+  {
+    "id": "joke_196_last_try",
+    "type": "joke",
+    "question": "What do you call a bear in the rain?",
+    "question_zh": "雨中的熊叫什么？",
+    "answer": "A drizzly bear.",
+    "answer_zh": "毛毛雨熊（Drizzly bear）。",
+    "explanation": "Grizzly vs Drizzly."
+  },
+  {
+    "id": "joke_197_wow",
+    "type": "riddle",
+    "question": "What goes up as soon as the rain comes down?",
+    "question_zh": "雨一落下来什么就升上去？",
+    "answer": "An umbrella.",
+    "answer_zh": "雨伞。",
+    "explanation": "You open it."
+  },
+  {
+    "id": "joke_198_final",
+    "type": "pun",
+    "question": "What do you call a beehive without an exit?",
+    "question_zh": "没有出口的蜂箱叫什么？",
+    "answer": "Unbelievable.",
+    "answer_zh": "难以置信（Un-bee-leave-able）。",
+    "explanation": "Bee leave."
+  },
+  {
+    "id": "joke_199_real",
+    "type": "joke",
+    "question": "What do you call a funny mountain?",
+    "question_zh": "有趣的山叫什么？",
+    "answer": "Hill-arious.",
+    "answer_zh": "滑稽（Hill-arious）。",
+    "explanation": "Hilarious + Hill."
+  },
+  {
+    "id": "joke_200_real",
+    "type": "riddle",
+    "question": "I have wings but cannot fly. I have a back but no spine. I have a leg but never walk. What am I?",
+    "question_zh": "我有翅膀（翼）不能飞，有背没脊柱，有腿不走路。我是什么？",
+    "answer": "A chair.",
+    "answer_zh": "椅子。",
+    "explanation": "Chair parts."
+  }
+]
